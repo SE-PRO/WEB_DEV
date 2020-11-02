@@ -21,10 +21,13 @@ While cloning the entire repository, you can find the working website code files
 ## Contributors
 
 1. Akshitha (CS18B004)
+   Contribution : Designed sign in/log in web page and forum page.
 
 2. Deepanvi Penmetcha (CS18B009)
+   Contribution : Linked the web pages(only navigation between screens) designed by other 3 team members and the code doesn't link the website to database.
 
 3. G Nikhitha Vedi (CS18B013)
+   Contribution : Designed logo, a version of home page, worked in back end development.
 
 4. Narasimha Naik (CS18B016)
-
+   Contribution : Designed sign in/log in web page, forum page, contact us page, home page.
