@@ -6,7 +6,7 @@
 # Project Description
 The project has been created with the aim to provide a platform for people who faced gender discrimination to share their story. It has been designed as a part of the Sustainable Development Goal- Gender Equality.
 
-##Functionalities
+## Functionalities
 Anyone can read existing articles and forums. But if they want to add an article or comment then the user has to login with anonymous username.
 
 ### Installing
