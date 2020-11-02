@@ -7,7 +7,7 @@ The project has been created with the aim to provide a platform for people who f
 
 
 ### Installing
-Find the master branch and clone (only) those files.
+While cloning the entire repository, you can find the working website code files in the folder named "discussion". Please open the "discussion" project in your visual studio code and run the project on your local host.
 
 
 ## Built With
