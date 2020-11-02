@@ -1,0 +1,54 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>platform for rights of people</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'abc.css' %}">
+    <meta name="viewport" content="width=device-width">
+    <style>
+    .pos1{
+       position:absolute;
+       left:0px;
+       top:110px;
+    }
+    </style>
+  </head>
+  <body>
+<header>
+<div class="container">
+  <div id="branding">
+<h1><span style="color:#e8491d"></span> </h1>
+</div>
+<nav>
+  <ul>
+    <li><a href="http://127.0.0.1:8000/naik/">Home</a></li>
+    <li class="current"><a href="http://127.0.0.1:8000/forum/">POSTS</a></li>
+    <li><a href="http://127.0.0.1:8000/contact/">CONTACT US</a></li>
+    </ul>
+  </nav>
+</div>
+</header>
+<section id="boxes">
+<div class="container">
+ <div class="box">
+   <img src="{% static 'user.png' %}" width="10%" >
+<h3>user1</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod te</p>
+   </div>
+   <div class="box">
+     <img src="{% static 'user.png' %}" width="10%">
+  <h3>user2</h3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod te</p>
+  </div>
+     <div class="box">
+      <img src="{% static 'user.png' %}"width="10%">
+    <h3>user3</h3>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod te</p>
+       </div>
+ </div>
+</section>
+
+  </body>
+</html>
